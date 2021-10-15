@@ -1,8 +1,4 @@
-# techzone-fs-demo
-
-Repository for the Demo Steps for the FS Cloud TechZone demo environment
-
-## Demo scripts
+# Demo Scripts
 
 - [Preparing to demo FS Cloud](./PDFs/1%20-%20Preparing%20to%20demo%20FS%20Cloud.pdf)
 - [Introducing the FS Controls](./PDFs/3%20-%20Introducing%20the%20FS%20Controls.pdf)
@@ -12,7 +8,5 @@ Repository for the Demo Steps for the FS Cloud TechZone demo environment
 - [OpenFN Retail Application Development](PDFs/7%20-%20OpenFN%20Retail%20Application%20Development.pdf)
 - [OpenFN Release to Production](PDFs/8%20-%20OpenFN%20Release%20to%20Production.pdf)
 
-
-## FAQ
 
 [FAQ and Troubleshooting](PDFs/FAQ%20&%20Troubleshooting.pdf)
